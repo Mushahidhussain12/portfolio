@@ -4,7 +4,7 @@ import Navigation from "./Components/Navigation"
 import Projects from "./Components/Projects"
 import Skills from "./Components/Skills"
 import Footer from "./Components/footer"
-import Hero from "./Components/hero"
+import Hero from "./Components/Hero"
 function App() {
   return (
     <>
